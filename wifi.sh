@@ -1,5 +1,4 @@
 #!/bin/bash
-#test
 # Turn Wifi off then on 
 networksetup -setairportpower en0 off
 echo "--------------Turning WiFi Off----------------"
